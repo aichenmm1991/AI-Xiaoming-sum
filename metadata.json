@@ -1,0 +1,5 @@
+{
+  "name": "AI Xiaoming 消除游戏",
+  "description": "一款极具挑战性的数学求和消除游戏，通过凑齐目标数字来消除方块，防止堆积触顶。",
+  "requestFramePermissions": []
+}
